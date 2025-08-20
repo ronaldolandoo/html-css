@@ -27,4 +27,6 @@
 	# FUSO HORÁRIO DE ANGOLA: (GMT+01:00) West Central Africa
 
 	# Vais usar o GITHUB PAGES PARA VER AS PÁGINAS WEBs
+
+	# QUANDO CLICAS EM "Open in Visual Studio Code" o Git Desktop abre o visual studio code diretamente na pasta em que o repositório está activado.
 -----------------------------------------------------------------------------------
