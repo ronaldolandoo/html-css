@@ -13,4 +13,10 @@
 	# COM O GITHUB DESKTOP, VOCÊ NÃO PRECISAR SABER MUITOS COMANDOS DO GITHUB.
 
 	# GIT, É UM GESTOR DE CÓDIGO.
+
+	# NAS PASTAS O ".git" significa nada mais do que uma cópia do seu código.
+
+	# LÓGICA - GIT DESKTOP VS GITHUB
+	- GIT DESKTOP: cria backups localmente
+	- GITHUB (PUSH): cria backups remoto (no servidor)
 -----------------------------------------------------------------------------------
