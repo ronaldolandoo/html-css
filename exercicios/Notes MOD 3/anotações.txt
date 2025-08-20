@@ -19,4 +19,12 @@
 	# LÓGICA - GIT DESKTOP VS GITHUB
 	- GIT DESKTOP: cria backups localmente
 	- GITHUB (PUSH): cria backups remoto (no servidor)
+
+	# PALAVRAS MÁGICAS:
+	- COMMIT: GUARDAR
+	- PUSH: LANÇAR NO GITHUB(SERVIDOR)
+
+	# FUSO HORÁRIO DE ANGOLA: (GMT+01:00) West Central Africa
+
+	# Vais usar o GITHUB PAGES PARA VER AS PÁGINAS WEBs
 -----------------------------------------------------------------------------------
