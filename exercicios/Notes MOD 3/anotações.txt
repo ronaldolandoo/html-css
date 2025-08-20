@@ -29,4 +29,6 @@
 	# Vais usar o GITHUB PAGES PARA VER AS PÁGINAS WEBs
 
 	# QUANDO CLICAS EM "Open in Visual Studio Code" o Git Desktop abre o visual studio code diretamente na pasta em que o repositório está activado.
+
+	# Aquele símbolo [parecido com ligações ou ramificações] é nada mais do que indicador de alterações/modificações.
 -----------------------------------------------------------------------------------
