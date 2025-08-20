@@ -1,0 +1,176 @@
+@charset "UTF-8";
+
+@font-face {
+	font-family: Bebas-Nue;
+	src: url('fontes/Baixei/Bebas-Neue/BebasNeue.otf') format('opentype');
+}
+
+@font-face {
+    font-family: idroid;
+    src: url('fontes/idroid.otf') format('opentype');
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #E7E5C1;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header {
+    background-image: linear-gradient(to bottom, #50CA85, #1A5D38);
+    color: white;
+    padding: 10px;
+}
+
+header > div > h1 {
+    margin: 0;
+    text-align: center;
+    padding-top: 10px;
+    font-family: Bebas-Nue;
+    font-weight: 400;
+    font-size: 30px;
+    font: 400 30px;
+}
+
+header > div > p {
+    text-align: center;
+    margin-top: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header > nav > a {
+    text-decoration: none;
+    color: white;
+    padding: 5px;
+    font-weight: 200;
+}
+
+header > nav > a:hover {
+    background-color: #2f985e;
+    transition: 0.1s;
+    color: rgba(3, 3, 3, 0.511);
+    border-radius: 5px;
+}
+
+header > nav {
+    margin-top: 30px;
+}
+
+main {
+    max-width: 800px;
+    margin: auto;
+    background-color: white;
+    border-radius: 10px;
+}
+
+main > p > mark > a, #lista > p > mark > a {
+    color: #176F3B;
+    text-decoration: none;
+}
+
+main > p > mark, #lista > p > mark {
+    background-color: #7ACF9F;
+}
+
+main h1, main h2{
+    font-family: idroid;
+    color: #176F3B;
+    margin: 0;
+}
+
+main h1 {
+    padding: 20px 0 0 20px;
+}
+
+main h2 {
+    padding-left: 20px;
+    
+}
+
+main > h2 > mark {
+    display: block;
+    background-color: #7acf9f3e;
+    background-image: linear-gradient(to right, #7acf9f3e, white);
+    color: #176F3B;
+
+}
+
+main p {
+    text-indent: 30px;
+    padding: 0 20px 10px 20px;
+    text-align: justify;
+    margin-top: 10px;
+}
+
+main span {
+    color: #176F3B;
+    font-weight: bold;
+}
+
+div#lista {
+    /*#185C33*/
+    background-color: #80E2AA;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+#lista > p {
+    display: block;
+    margin: 0;
+    padding: 10px;
+}
+
+
+h2#title-list {
+    font-family: Arial, Helvetica, sans-serif;
+    text-indent: 0;
+    padding: 10px 0 10px 10px;
+    color: white;
+    font-size: 1em;
+    background-color: #185C33;
+    border-radius: 10px 10px 0 0;
+}
+
+#check-list li::before {
+    content: '✔ ';
+}
+
+#check-list {
+    margin: 0;
+    padding-left: 10px;
+}
+
+.list-group-1 {
+    display: inline-block;
+    margin-right: 150px;
+}
+
+.list-group-2 {
+    display: inline-block;
+}
+
+#Yvideo {
+    background-color: #185C33;
+    padding: 30px;
+}
+
+#lista > p > a {
+    color: #185C33;
+    text-decoration: none;
+}
+
+#lista > p > a:hover {
+    text-decoration: underline;
+}
+
+footer > p {
+    background-color: #1A5D38;
+    margin: auto;
+    color: white;
+    text-align: center;
+    font-size: 12px;
+    padding: 8px;
+    margin-top: 15px;
+}

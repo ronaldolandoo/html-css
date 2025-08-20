@@ -1,0 +1,612 @@
+------------------------------------------------PROGRAMMING WEB-----------------------------------------------------------
+
+Configurações pontuais: configuração de algo de forma precisa. Ajuste de algo de forma específica, a solução mais rápida.
+
+# A BASE HEXADECIMAL possui 16 algarismos. Sendo 0 o dígito menos significativo e F o valor mais significativo.
+
+COISAS INCRÍVEIS SOBRE CORES:
+
+- TODAS AS CORES SÃO FORMADAS PELO CONJUNTO DE VERDE, VERMELHO E AZUL.
+- NAS CORES DA BASE HEXADECIMAL AS CORES PODEM IR ATÉ 255
+
+# Todas as cores possuem as seguintes características: matiz(hue), saturação (saturation) e luminosity (luminosidade).
+
+# RGBA = RED, GREEN, BLUE E ALFA (TRANSPARÊNCIA)
+
+# AS CORES PODEM SER REPRESENTADAS DE DIVERSAS FORMAS, COMO: RGB, RGBA, HSL, HEXADECIMAL E ASSIM POR DIANTE.
+
+# EXISTEM MAIS DE 65 MILHÕES DE COMBINAÇÕES DE CORES
+
+# O ESTUDO DE CORES, O ESTUDO DE HARMONIA DE CORES, NÃO FAZ PARTE DA DISCIPLINA DE DESENVOLVIMENTO WEB, FAZ PARTE DE 
+DISCIPLINA DE DESIGN.
+
+# É LINDO DEMAIS, DISCIPLINA DE DESIGN!
+
+
+---------------------------HARMONIA DE CORES--------------------------------
+
+# CÍRCULO CROMÁTICO (RODA DE CORES) é uma ferramenta visual que permite a relação, harmonia e contraste entre as cores.
+
+# CÍRCULO CROMÁTICO (RODA DE CORES) é uma ferramenta visual que estuda a harmonia de cores.
+
+	Ele está composto por:
+
+- CORES PRIMÁRIAS: VAA (VERMELHO, AMARELO E AZUL)
+- CORES SECUNDÁRIAS: VVL (VERMELHO, VERDE, LARANJA)
+- CORES TERCIÁRIAS: COMBINAÇÃO DE COR PRIMÁRIA E SEGUNDÁRIA (COR PRIMÁRIA + SECUNDÁRIA). ELAS TÊM UM TOM PASTEL 
+(SATURAÇÃO BAIXA E LUMINOSIDADE ALTA). Ex:
+amarelo-esverdeado, amarelo-alaranjado, vermelho-alaranjado, vermelho-arroxeado, azul-arroxeado e azul-esverdeado.
+
+
+# MUITAS COISAS BONITAS POSSUEM 2 COISAS: SIMÉTRIA E COR.
+
+
+#AINDA NO CÍRCULO CROMÁTICO, É POSSÍVEL OBSERVAR A TEMPERATURA DAS CORES, CORES FRIAS  (EMISFÉRIO ESQUERDO) E CORES QUENTES (EMISFÉRIO DIREITO).
+
+
+# MUITO IMPORTANTE: AO DESENVOLVER OS SEUS SITES É NECESSÁRIO TER UMA BOA PALETA DE CORES
+
+# No cíclo cromático existem cores frias e quentes.
+
+	Tipos de cores:
+
+- Cores complementares são aquelas que são opostas no círculo cromático (que têm maior contraste).
+
+- Cores análogas são aquelas que não têm grande constraste entre elas
+
+- Cores análogas e uma complementar : é nada mais do que usar as duas cores ao lado (esquerdo e direito) e a cor oposta a 
+principal.
+
+- Cores análogas relacionadas: é nada mais do que pegar 2 cores relacionadas, pular uma casa e pegar a cor próxima.
+
+- Cores intercaladas: é aquela em você seleciona uma cor, pulas a próxima selecionas a cor e pulas mais 1 e 
+selecionas a cor.
+
+- Cores triádicas: selecionas 1, pulas 3, selecionas, pulas 3 e selecionas. 
+
+- Cores em quadrado: pulas 2 cores depois de selecionar uma cor.
+
+- Cores tetrádicas: seleciona qualquer cor, selcione a sua cor oposta (complementar). Pegas outra cor e seu oposto. Forma 
+um retângulo com essa paleta.
+
+--------------------MONOGROMIA--------------------
+
+Monocromia - nada mais é do que usar diferentes tons de uma única cor, formando assim uma paleta de cores.
+
+
+-----------------------------ADOBE COLOR---------------------------
+
+# ABODE COLOR É SENSACIONAL, VOCÊ PODE USAR ELE PARA EXTRAIR A PALETA DE CORES DE UMA IMAGEM E CRIAR SUAS PALETAS DE CORES.
+
+DICA: ESTUDE MAIS SOBRE PSICOLOGIA DAS CORES.
+
+# EXERCÍCIO: PALETA DE CORES PARA UM SITE DE VENDA PLANTAS
+
+# "SITE: PALETTON.COM" é muito bom para simular as cores do seu site, saber como elas ficarão.
+
+# SITE: "COOLORS.CO"
+
+
+-------------CAPTURAR AS CORES DA TELA-----------------------
+
+# Ao invés de capturar a tela a usar o gimp ou um color picker, podes simplismente instalar a extensão ColorZilla do chrome.
+E deve estar sempre acompanhada da extensão web developer. Acredito!😅
+
+# "adobe.color.co" é muito legal quando o assunto é obter ou gerar cores! 
+
+
+# EXISTE TAMBÉM UMA EXTENSÃO PARA APRESENTAÇÕES, DO GOOGLE! 
+
+
+----------------------EFEITO DEGRADÊ---------------------------
+
+# PARA CRIAR O EFEITO DEGRADÊ VOCÊ USA A PROPRIEDADE BACKGROUND-IMAGE.
+- Esta propriedade recebe linear-background() que é um valor que significa que ele vai criar um degradê em linha, e dentro 
+dele, você primeiro indica a direção e depois as cores.
+- EX: "background-image: linear-gradient(to bottom, white, blue);"
+
+# APARTIR DO ADOBE PODES EXTRAIR GRADIENTE DE UMA IMAGEM!
+
+# TENHA PALETAS DE CORES COM 3 À 5 CORS APENAS. NÃO MENOS, NEM MAIS.
+
+
+---------------------------------------TIPOGRAFIA----------------------------------------------------
+
+TIPOGRAFIA - nada mais é do que como eu vou desenhar as letras.
+
+#FAMÍLIA TIPOGRÁFICA
+- ALGUMAS FONTES TÊM VARIAÇÕES TIPOGRÁFICAS: LIGHT, NORMAL, SEMINEGRITO, NEGRITO E EXTRANEGRITO
+
+#PARA TEXTOS LONGOS USE SEMPRE FUNDO BRANCO E LETRAS PRETA
+
+
+#CATEGORIAS DE FONTES
+	AS CORES CATEGORIZAM-SE POR: SERFICADAS(COM SERIFAS), SANS-SERIF(SEM SERIFAS), 
+MONOESPAÇADAS(UM ÚNICO/MESMO ESPAÇAMENTO), HANDWRITING (simulão a escrita à mão) E
+DISPLAY (COMEMORÁTIVAS, NÃO OBDECEM MUITAS REGRAS DA ANATOMIA DO TIPO).
+
+
+#SOBRE O FONT-FAMILY: SABIAS QUE!?
+- Se a fonte que tiveres a usar tiver duas palavras, exemplo: 'Courier New', deve ficar exatamente assim entre vírgulas 
+altas.
+
+
+#FAMOUS FONTS
+- ARIAL, HELVETICA, VERDANA
+
+#SABIAS QUE: DEVIDO A COMPATIBILIDADE DE FONTES NOS DISPOSTIVOS DEVES USAR NO MÍNIMO 3 TIPOS DE LETRAS PARA QUE O 
+DISPOSITIVO USE UMA DELAS. EX: "font-family: Arial, Helvetica, sans-serif;"
+
+#COMBINAÇÕES SEGURAS DE FONTES
+-SERACH: CSS WEB SAFE FONTS
+
+#CURIOSIDADE: VOCÊ SABIA QUE PODES DEIXAR O NAVEGADOR DECIDIR QUE TIPO DE LETRA USAR, NO FONT-FAMILY ATRIBUINDO VALORES,
+COMO: monospace, sans-serif, serif. Ele vai simplismente usar uma fonte que tenha a característica que você definiu.
+
+-----------------------------------------------------------------------------------------------------
+
+
+-------------------------TAMANHO DE FONTE E SUAS MEDIDAS---------------------------
+#TIPOS DE MEDIDAS
+- MEDIDASD ABSOLUTAS: cm, mm, in, px, pt, pc
+- MEDIDAS RELATIVAS: em, ex, rem, vw, vh, %
+
+#SABIAS QUE: 16px normalmente é o tamanho padrão da fonte.	
+
+#TEM-SE COMO RECOMENDAÇÃO OFICIAL DA W3C usar medida em pixel ou em nas fontes.
+
+#MEDIDA "PT" É A MEDIDA UTILIZADA PARA ESCRITAS NO PAPEL, NÃO É RECOMENDADA PARA SITES.
+
+------------------------------------------------------------------------------------
+
+--------------------------PESO, ESTILO E SHORTLAND----------------------------------
+# PESO DA FONTE
+
+PESO = WEIGHT
+
+# ESTILO DA FONTE
+
+# NORMALMENTE AS FONTES, TÊM O LIGHTER, NORMAL, BOLD E BOLDER.
+
+# ALGUMAS FONTES TÊM VARIAÇÕES INICIANDO DE 100 ATÉ 900. OUTRAS NÃO CHEGAM ATÉ 900. O 900 é mais que o bolder.
+
+# FONT-WEIGHT: PERMITE-TE USAR VARIAÇÕES COMO: LIGHT, NORMAL, BOLD, BOLDER. BEM COMO NÚMEROS QUE AUMENTAM O SEU 
+PESO.
+
+# FONT-STYLE: PERMITE-TE USAR VARIAÇÕES COMO: NORMAL E ITALIC
+
+# NEM TODAS FONTES PERMITEM VÁRIAS VARIAÇÕES DE FONT-WEIGHT, FONT-STYLE E TEXT-DECORATION (TEXT-DECORATION: UNDERLINE).
+
+# SIMPLIFICAR TUDO COM SHORTHAND
+
+- Podes definir SWSF(FONT STYLE, WEIGHT, SIZE, FAMILY). TUDO ISTO EM "font". 
+Ex: "font: italic bolder 3em 'Work Sans', sans-serif;"
+
+# SINTAXE DE SHORTHAND DE FONT: - font-style => font-weight => font-size => font-family
+
+# EXISTEM VÁRIOS SHORTHANDS que  podes utilizar no seu código HTML.
+
+# LEMBRE-SE SEMPRE DE COLOCAR O TIPO GÉNERICO "sans-serif" no final de cada font-family, para prevenir-se de 
+incompatibilidade do navegador quanto aos tipos de fontes.
+
+# NÃO EXAGERE NAS FONTES 2 FONTES ESTÁ BOM! USE APENAS 3 FONTES EM CASOS EXCLUSIVOS.
+
+# USAR FONTE BAIXADA NO SEU SITE, NO CSS USAS: "@font-face" colocas o caminho da URL.
+
+SINTAXE:
+
+@font-face {
+	font-family: ;
+	src: url('NomeDaFonte.formato') format ('ColocasOFormato'), url('NomeDaFonte.formato') format ('ColocasOFormato');
+}
+
+
+TIPOS DE FORMAT():
+- opentype (otf)
+- truetype (ttf)
+- embedded-opentype
+- truetype-aat (Apple Advanced Typography)
+- svg
+
+# NORMALMENTE OS FICHEIROS DAS FONTES FICAM NOS FORMATOS ttf e otf
+
+# Automação de marketing com mautic
+
+# EXTENSÃO PARA CAPTURAR FONTES USADAS EM UM SITE: Fonts ninja
+------------------------------------------------------------------------------------
+
+
+----------------------------DETECTANDO FONTES DENTRO DE IMAGENS------------------------------
+
+#SITES PARA DECTETAR FONTE DA IMAGEM: 
+
+- https://www.whatfontis.com/
+- https://www.fontsquirrel.com/
+- https://www.myfonts.com/
+---------------------------------------------------------------------------------------------
+
+
+-----------------------------------ALINHAMENTO DE TEXT COM CSS-------------------------------
+
+# TEXT-ALIGN: JUSTIFY; /*Chamamos de Justify, porque o alinhamento a esquerda e direita*/
+# TEXT-INDENT: 30px; /*Como o próprio nome diz, serve para identar o texto, ou melhor, serve para dar aquele espaço [tab]. 
+Antes do texto começar.*/
+---------------------------------------------------------------------------------------------
+
+
+-------------------------------USANDO O ID COM CSS-------------------------------------
+
+# "ID" SIGNIFICA "IDENTIFIER" em português "IDENTIFICADOR"
+
+# USANDO O IDENTIFICADOR (ID), podes usar a estrutura "h1#principal, ou seja, NomeDaTag + # + NomeDoIdentificador
+- OU SIMPLISMENTE "#principal"
+
+# A cerquilha "#" indica "identificador (id)"
+
+💡 NOTA:
+em HTML é id    = em CSS é #
+em HTML é class = em CSS é .
+
+
+# SELECTOR PERSONALIZADO: nome atribuidos a selectores que nós mesmo criamos.
+
+# NÃO DE NOMES NAS SUAS CLASSES DE ACORDO COM A FORMA, MAS SIM COM A FUNÇÃO.
+
+# O "<span></span>" NADA MAIS É, DO QUE UM TRECHO!
+
+# É POSSÍVEL ATRIBUIR DUAS CLASS EM UMA ÚNICA TAG, BASTA DAR ESPAÇO.
+
+# É POSSÍVEL TAMBÉM ATRIBUIR CLASS E ID EM UMA ÚNICA TAG.
+
+# O ID SOBREPÕE AS CONFIGURAÇÕES DE CLASS
+
+# DIV É UM ESPAÇO QUALQUER
+
+# "TAG#ID" É possível escrever assim ou assim #ID
+
+# ":" é uma Pseudo-classe, são relacionadas um elemento ou uma classe
+
+# "DIV > P" o P é filho da DIV
+
+# "DIV:HOVER > P" significa que quando passares o mouse por cima da div irá acontecer algo no P.
+
+# PSEUDO-CLASSE PARA SITES VISADOS ":VISITED"
+
+# PSEUDO-CLASSE PARA QUANDO CLICO NO TEXTO ":ACTIVE"
+
+# PSEUDO-ELEMENTO ":" VS PSEUDO-ELEMENTO "::"
+
+- PSEUDO-CLASSE [REPRESENTA-SE POR  ":". Ex: :visted, :hover & :active]
+- PSEUDO-ELEMENTO [REPRESENTA-SE POR "::". Ex: ::after]
+
+# PROPRIEDADE CSS PARA ADICIONAR TEXTO [content 'EscrevaoTextoAqui']
+
+# IMPORTANTE: SELECTORES PERSONALIZADOS!
+
+	    # = id
+            . = class
+            : = pseudo-class
+            :: = pseudo-elemento
+            > = children
+----------------------------------------------------------------------------------------
+
+
+
+
+-----------------------------------MODELO DE CAIXAS-------------------------------------
+# PALAVRAS-CHAVES: HTML E CSS BOX MODEL	
+
+# ANINHAMENTO: UMA COISA DENTRO DA OUTRA
+
+# TODO ELEMENTO POR PADRÃO ESTÁ DENTRO DE UMA CAIXA
+
+# TIPOS DE CAIXA: BOX-LEVEL E INLINE-LEVEL
+
+# EXEMPLOS BOX-LEVEL: <div>, <h1> - <h6>, <p>, <article>, <form>, <video>
+
+# EXEMPLOS INLINE-LEVEL: <input>, <select>, <span>, <a>, <code>
+
+# USER AGENT: CONFIGURAÇÃO BÁSICA DO NAVEGADOR
+
+# SOBRE BORDAS: 
+- BORDER-WIDTH - EXPRESSURA DA BORDA
+- BORDER-STYLE - ESTILO DA BORDA (PONTILHADO, SOLIDA, PONTILHADINHO, duplo...)
+
+# USER AGENT - CONFIGURAÇÃO PADRÃO DE UM ELEMENTO HTML
+
+# CENTRALIZAR UMA CAIXA: MARGIN: AUTO;
+
+#CENTRALIZAR UM TEXTO: TEXT-ALIGN: CENTER;
+
+# OUTLINE: FICA ENTRE A BORDA E A MARGEM. SÓ QUE DENTRO DA MARGEM.
+
+
+
+# SHORTHANDS PARA AS PROPRIEDADES: BORDER, PADDING E OUTLINE
+
+- border: [border-width] [border-style] [border-color];
+- padding: [padding-top] [padding-right] [padding-bottom] [padding-left]; /*NO SENTIDO HORÁRIO. SE OS 3 PADDING FOREM IGUAIS NÃO PRECISAS REPETIR, ESCREVA APENAS 1 VEZ.*/
+/* SE COLOCARES APENAS 2 VALORES SIGNIFICA QUE 1. CIMA E BAIXO. 2. DIREITA E ESQUERDA*/
+- margin: [margin-top] [margin-right] [margin-bottom] [margin-left];
+
+# PODES CENTRALIZAR ATÉ MESMO USANDO "SHORTHANDS"
+
+- margin: 10px auto 10px auto;
+TRADUÇÃO: margin-top: 10px; margin-right: auto; margin-bottom: 10px; margin-left: auto;
+
+
+
+# HÁ SHORTHANS PARA MUITAS PROPRIEDADES CSS, COMO: BORDER, MARGIN, PADDING E OUTLINE!
+
+
+# É POSSÍVEL SABER MUITA COISA SOBRE CADA PROPRIEDADE CSS, ATRAVÉS DO NAVEGADOR, NA OPÇÃO "INSPECT".
+
+# QUANDO UM ELEMENTO É INLINE, NÃO PODES DEFINIR "WIDTH" E "HEIGHT".
+
+# PODES MUDAR A CARACTERÍSTICA DE UM ELEMENTO!
+
+# DISPLAY: INLINE-BLOCK; /*O ELEMENTO É INLINE, MAS PODES ADICONAR PROPRIEDADE DE BLOCK, COMO WIDTH E HEIGHT.*/
+
+----------------------------------------------------------------------------------------
+
+
+--------------------------------GROUPING TAGS----------------------------------
+# Grouping Tags = Tags de agrupamento/Tags agrupadoras
+
+# AS TAGS TÊM SIGNIFICADO, ENTÃO EVITE USAR simplismente "DIV" se podes usar "DIV" com significado. Ex: header, main (conteúdo principal), footer, nav (para menu), section (separar em seções). 
+-------------------------------------------------------------------------------
+
+-----------------------SOMBRAS NAS CAIXAS------------------------------------
+
+# PROPRIEDADE PARA SOMBRA: "box-shadow". Ex: 
+- box-shadow: [deslocamento-horizontal] [deslocamento-vertical] [espalhamento] [sombra];
+- box-shadow: 1px 1px 1px black;
+
+
+# Outset = Externa
+# Inset = Interna
+Ex: Sombra Outset e Inset
+Ex: box-shadow: inset 1px 1px 1px black;
+
+# NÃO EXISTE SOMBRA QUE NÃO SEJA PRETA. ENTÃO, USE APENAS BLACK COM TRANSPARÊNCIA, PARA AS SOMBRAS.
+
+# PODES PESQUISAR POR: "BOX-SHADOW GENERATOR". PARA GERAR MELHOR AS SOMBRAS.
+
+# BLUR = ESPALHAMENTO DA SOMBRA
+# SPREAD = TAMANHO DA SOMBRA
+-----------------------------------------------------------------------------
+
+
+
+-----------------------CAIXAS COM VÉRTICES ARREDONDADOS----------------------
+
+# A HOSTNET TEM VÍDEOS-AULAS GRATUITAS
+
+# BORDER-RADIUS = RAIO DA BORDA
+
+# É POSSÍVEL FAZER "SHORTHAND" COM A PROPRIEDADE "BORDER-RADIUS: [TOP] [RIGHT] [BOTTOM] [LEFT];"
+ATT: MAS NÃO CURTI!
+
+# É POSSÍVEL TAMBÉM FAZER ESTE "SHORTHAND" "BORDER-RADIUS: [1PX - CIMA BAIXO \ ] [DIREITA ESQUERDA /];
+
+-----------------------------------------------------------------------------
+
+-----------------BORDAR PERSONALIZADAS---------------------------------------
+
+Código para borda personalizada:
+	   "border-image-source: url('[a_imagem.formato]');
+            border-image-slice: 27; /*Ajuste apartir do devTools para ver o número que fica melhor*/
+            border-image-repeat: repeat; /*Para as bordas repetirem-se*/ "
+
+# SLICE = FATIAR
+
+# SHORTHAND DE BORDA PERSONALIZADA: 
+- BORDER-IMAGE: url('[a_imagem.formato]') [valor_de_border_slice] [border_repeat];
+
+
+------------------------------------------------------------------------------
+
+
+# IMPORTANT NOTE: UM SITE É CONSTITUÍDO POR 3 PARTES: CABEÇALHO (header), CORPO (main) E RODAPÉ (footer).
+
+
+
+------------------DESAFIO 10 - CRIANDO O PRIMEIRO PROJECTO--------------------
+
+
+# O PLANEJAMENTO DO SITE É ALGO MUITO IMPORANTE E TEM ATÉ FERRAMENTAS PARA ISTO
+
+
+# IDEAS E SITES PARA CRIAR O PLANEJAMENTO DE UM SITE:
+
+1. LAYOUT:
+- https://app.mockflow.com/
+
+2. CORES:
+- https://color.adobe.com/pt/
+
+3. FONTES:
+- https://fonts.google.com/
+
+# A TAG NAV NÃO PRECISA ESTAR DENTRO DA TAG HEADER.
+
+# A TAG ARTICLE MUITAS VEZES GUARDA ENVOLVE INFORMAÇÕES (ARTIGOS/TEXTOS E TÍTULOS).
+
+# É POSSÍVEL DAR TAB EM TUDO APENAS SELECIONANDO O TEXTO E DEPOIS CLICAR NA TECLA TAB. E SHIFT + TAB: PARA VOLTAR UM TAB.
+
+# SEMANTICAMENTE AQUELE BLOQUINHO QUE DIZ "QUER APRENDER MAIS" NOS SITES É CRIADO COM A TAG "ASIDE".
+
+# NO "ALT" DA TAG "IMG" USE MAIS TEXTOS DESCRITIVOS DO QUE SIMPLES.
+
+# AO CRIAR UM SITE USE IMAGENS NO TAMANHO DESKTOP E DEPOIS ESTILIZE OUTROS TAMANHOS MENORES COM CSS.
+
+# USE O ABBR APENAS NA PALAVRA QUE QUERES MOSTRAR A SUA FULL FORM, AO INVÉS DE TODOS ELEMENTOS QUE SE ACOMPANHAM DA PALAVRA
+
+# INKSCAPE É SEMELHANTE AO ILLUSTRATOR, SERVE PARA CRIAR LOGOS E OUTROS TIPOS DE RECURSOS VISUAIS.
+
+# É POSSÍVEL ROUBAR O FAVICON DE UM SITE!
+
+------------------------------------------------------------------------------
+
+
+------------------------------VARIÁVEIS EM CSS--------------------------------
+
+
+# PARA DECLARAR AS VARÁVEIS EM CSS, PRECISAS COMEÇAR POR ESCREVER o seguinte:
+
+:root {
+	--NomeDaVariavel: valor;	
+}
+
+"
+
+# AS VARIÁVEIS AJUDAM BASTANTE NA ALTERAÇÃO DO CÓDIGO, CASO SEJA NECESSÁRIO ALGUMA ACTUALIZAÇÃO.
+
+# PRESTE ATENÇÃO NA AO ESCREVER O CAMINHO NAS "URL". 
+- USE SEMPRE "../" para voltar uma pasta.
+
+# "./" SIGNIFICA PASTA ACTUAL.
+
+# USE MAIS DE UMA FONTE PARA OS TEXTOS, PARA EVITAR ERROS, CASO O NAVEGADOR NÃO SUPORTEM A SUA FONTE
+
+# PARA REMOVER A MARGIN DE TODOS OS ELEMENTOS HTML, É MAIS FÁCIL "*" QUE SIGNIFICA "TODOS ELEMENTOS HTML". POR EXEMPLO:
+
+* {
+	margin: 0;
+}
+
+# ESTE SINAL "*" SIGNIFICA "TODOS ELEMENTOS HTML"
+- ENTÃO SE QUISERES USAR UMA FORMAÇÃO PARA TODOS OS ELEMENTOS USE O SELECTOR "*"
+
+# QUANDO TU ABRIS O INSPECTOR, E MAXIMIZAS E DINIMIZAS A TELA ELA MOSTRA A LARGURA MÁXIMA E MINÍMA QUE TEM.
+
+# TAMANHO DA MINHA VIEWPORT, É NADA MAIS DO QUE O TAMAMHO ACTUAL DA TELA.
+
+# PARA TER RESPONSIVIDADE AO INVÉS DE USARES APENAS "WIDTH" USE "MIN-WIDTH" E "MAX-WIDTH".
+- PARA CELULARES MENORES E ANTIGOS, USE: MIN-WIDTH: 320px;
+- PARA TELAS MAIORES FUNCIONAR TAMBÉM, NÃO ESQUEÇA DE USAR: MAX-WIDTH: 800px;
+
+# PENSE SEMPRE NO TAMANHO MÍNIMO E MÁXIMO QUE O SEU CONTEÚDO VAI OCUPAR.
+
+# PARA TORNAR UMA IMAGEM RESPONSIVA BASTA ADICIONAR A ESTILIZAÇÃO CSS: "WIDTH: 100%;"
+
+# AO TESTAR A RESPONSIVIDADE DAS IMAGENS, USE O MAX-WIDTH QUE MAIS CONVÊM PARA A SUA IMAGEM E NÃO SE BASEIE SIMPLISMENTE NAS LARGURAS PADRÃO.
+
+# QUANDO VOCÊ USA AS PROPRIEDADES QUE TORNAM UM SITE RESPONSIVO: "MIN-WIDTH: 280PX; MAX-WIDTH: 800PX;", SIGNIFICA QUE ELA O CONTEÚDO VAI ADPTAR-SE
+ATÉ NOS CELULARES MAIS PEQUENOS, AQUELES QUE POSSUEM APENAS 320PX, MAS DEIXA MESMO 280PX CONTANDO COM OS PADDING DE LARGURA E O CONTEÚDO VAI ESTAR NA LARGURA MÁXIMADE 800PX INDENPENDENTEMENTE DA
+TELA.
+
+# PODES USAR O "400PX" COMO REFERÊNCIA PARA LARGURA DE IMAGENS PEQUENAS
+
+# PODES DIMINUIR A DIMENSÃO DE UMA IMAGEM USANDO CSS. EX: "WIDTH: 50%;"
+
+# PARA CENTRALIZAR UMA IMAGEM PRECISAS PRIMEIRO ESCREVER "DISPLAY: BLOCK;", SÓ DEPOIS "MARGIN: AUTO;"	
+
+# ALGO INCRÍVEL SOBRE AS SOMBRAS EM CSS, É QUE PODES ESCREVER "0PX NA HORIZONTAL E 0PX NA VERTICAL" MAS ESCREVER UM ESPALHAMENTO DE "10PX POR EXEMPLO", DA UM EFEITO DE SOMBRA LEGAL.
+
+# PARA QUE AS PROPRIEDADES CSS FIQUEM BEM ORGANIZADAS, CRIE SEMPRE UMA SEQUÊNCIA LÓGICA BOA! POR EXEMPLO: ONDE TEM "MARGIN" FICA SÓ "MARGIN", PRIMEIRO VEM O MAIN, DEPOIS: MAIN > IMG, ASSIM EM DIANTE!
+
+# EXISTEM AS PROPRIEDADES: "BORDER-BOTTOM-LEFT-RADIUS" E "BORDER-BOTTOM-RIGHT-RADIUS".
+
+# AO AJUSTAR AS IMAGENS, SEJA O MAIS FLEXÍVEL POSSÍVEL, PODES SIM AJUSTAR DE ACORDO COM O QUE FICAR MELHOR VISUALMENTE.
+
+# TAREFA: CRIE DESAFIOS PARA SI, CRIE DESAFIOS QUE PARECESSAM-SE COM SITES, UM SUPERIOR AO OUTRO!
+
+# QUANDO DEFINES A ALTURA OU LARGURA MÍNIMA, TU DEFINES ATÉ QUE NÍVEL O ELEMENTO SERÁ RESPONSIVO.
+
+# VOCÊ PODES DIMINUIR A LARGURA DO TEXTO, DEFININDO O "MAX-WIDTH", MAS SE QUISERES CENTRALIZAR USE O "MARGIN: AUTO;"
+
+# AO INVÉS DE SIMPLISMENTE WIDTH, PASSE A UTILIZAR O "MIN-WIDTH" E/OU "MAX-WIDTH" QUANDO NECESSÁRIO, PORQUE ELES SÃO MAIS RESPONSIVOS EM COMPRAÇÃO COM 
+O SIMPLISMENTE "WIDTH".
+
+# AJUSTE TUDO O PADDING, O MAX-WIDTH, PARA QUE O SEU SITE SEJA O MÁXIMO RESPONSIVO QUE CONSEGUIRES.
+
+# "TEXT-SHADOW: 1PX 1PX 1PX BLACK;" PARA SOMBRA NO TEXTO, É SEMELHANTE A PROPRIEDADE "BOX-SHADOW" SÓ QUE UMA É PARA TEXTO E OUTRA É PARA OBJECTOS HTML.
+
+# PODES USAR "BOX-SHADOW GENERATOR PARA CRIAR SOMBRAS"
+
+# TREINE E PRATIQUE A CAPACIDADE DE CRIAR SOMBRAS
+
+# SAIBA COMBINAR A COR DO BOTÃO E DAS LETRAS PARA CRIAR UM BOM EFEITO HOVER.
+
+# A PROPRIEDADE "TRANSITION-DURATION" DEVE SER ATRIBUÍDA NA PROPRIEDADE NÃO HOVER (ENTENDEU?). 👉 EX:
+"
+	button {
+		color: white;
+		transition-duration: 0.5s;
+	}
+
+	button:hover {
+		background-color: blue;
+	}
+
+"
+
+# O EFEITO DA PROPRIEDADE "TRANSITION-DURATION" FICA BEM LEGAL!
+
+# CRIE PELO MENOS 1 SITE SEM COPIAR
+
+# APRENDA A CRIAR SEUS SITES E NÃO A COPIAR OS DAS VÍDEOS AULAS
+
+# O PARÁGRAFO PODE TER MARGIN DE 15PX CIMA E BAIXO. EX: "MARGIN: 15PX 0;"
+
+
+# SABIAS QUE: "MAIN P" =! "MAIN > P", PORQUE:
+
+- MAIN P: significa que irá atingir todos os "P" que estejam dentro do "MAIN", indenpendente do nível. 
+
+- MAIN > P: irá atingir apenas os "P" que estejam dentro do "MAIN" EM PRIMEIRO NÍVEL.
+
+# A PROPRIEDADE "LINE-HEIGHT" DEFINE A ALTURA ENTRE AS LINHAS. EX: "LINE-HEIGHT: 2EM;"
+
+# VISUALMENTE PODES MARCAR APENAS USANDO O "BACKGROUND-COLOR" MAS SEMÂNTICAMENTE A MELHOR OPÇÃO SERIA UTILIZAR O MARK.
+
+# VOCÊ PODE CRIAR UM DEGRADÊ QUE COMEÇA DE UMA COR E VAI ATÉ TRANSPARENT. EX: "BACKGROUND-IMAGE: LINEAR-GRADIENT(TO RIGHT, BLUE, TRANSPARENT);"
+
+# O ELEMENTO HTML "ASIDE" SERVE TAMBÉM PARA CONTÉUDOS PERIFÉRICOS.
+
+# "LIST-STYLE-POSITION" É UMA PROPRIEDADE QUE PERMITE POSICIONAR O "TYPE" DA LISTA, PARA FICAR DENTRO (INSIDE) OU FORA (OUTSIDE).
+
+# É POSSÍVEL DEVIDIR UMA LISTA EM 2, SIMPLISMENTE USANDO A PROPRIEDADE "COLUMNS: 2;"
+
+# AO ESTILIZAR SEJA O MAIS ESPECÍFICO POSSÍVEL COM OS SELETORES
+
+# "LIST-STYLE-TYPE" É UMA PROPRIEDADE QUE POSSIBILITA DAR INPUT (ALTERAR) EM UMA LISTA, COMO POR EXEMPLO:
+"
+	aside > ul {
+		list-style-type: '\2714\00A0\00A0';
+		list-style-position: inside;
+		columns: 2;	
+	
+	}
+
+"
+
+# "\00A0" SIGNIFICA "ESPAÇO" no list-style-type.
+
+# "\2714" SIGNIFICA "CHECK" no list-style-type.
+
+# PODES USAR MUITO MAIS O BACKGROUND-COLOR PARA UMA ESTILIZAÇÃO MELHOR DAS TAGS HTML.
+
+# MELHORE A SUA HABILIDADE EM USAR O MARGIN, PODES USAR ELE PARA FAZER COM QUE UM ELEMENTO FIQUE NUMA POSIÇÃO MELHOR DO QUE IMAGINAS.
+- PODES USAR TAMBÉM AQUELE RECURSO DE TESTE DE MARGIN NO DEVTOOLS DO SEU NAVEGADOR (CHROME)
+
+# A MARGIN NEGATIVA FAZ COM QUE UM ELEMENTO FICA FORA. EX: "MARGIN: -10PX -10PX 0 -10PX;" ISSO TORNA POSSÍVEL COM QUE O ELEMENTO QUE RECEBA ESTA PROPRIEDADE FIQUE TODAS AS EXTREMIDADES, EXCEPTO FORA.
+
+# USE MAIS A EMOJIPEDIA PARA PEGAR/OBTER EMOJIS PARA OS SEUS SITES:
+- https://emojipedia.org/
+
+# USAR -ValorPx, deixa o elemento para fora. É MUITO LEGAL!
+
+# ATÉ O MOMENTO PARA POSICIONARES UM VÍDEO PODES SEGUIR OS SEGUINTES PASSOS:
+
+1. DIV COM POSITION: RELATIVE
+2. IFRAME COM POSITION: ABSOLUTE
+3. USAR APENAS PERCENTAGEM PARA POCIONAR O ELEMENTO. EX: PADDING, PADDING-BOTTOM, TOP, LEFT.
+
+# "A GENTE NUNCA TERMINA UM PROJECTO, A GENTE DESISTE DELE" - DISSE: AMIGO DO GUSTAVO GUANABARA
+
+# WIREFRAME: CONSTRUÇÃO DA ESTRUTURA DO SITE.
+
+# UM ALUNO DEDICADO CRIA VERSÕES MELHORADAS DOS SEUS PROJECTOS.
+-------------------------------------------------------------------------------
