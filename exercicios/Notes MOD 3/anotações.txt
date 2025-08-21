@@ -21,7 +21,7 @@
 	- GITHUB (PUSH): cria backups remoto (no servidor)
 
 	# PALAVRAS MÁGICAS:
-	- COMMIT: GUARDAR
+	- COMMIT: CRIAR VERSÃO DO SEU CÓDIGO
 	- PUSH: LANÇAR NO GITHUB(SERVIDOR)
 
 	# FUSO HORÁRIO DE ANGOLA: (GMT+01:00) West Central Africa
@@ -33,4 +33,18 @@
 	# Aquele símbolo [parecido com ligações ou ramificações] é nada mais do que indicador de alterações/modificações.
 
 	# PUSH é tudo aquilo que é remoto.
+
+	# O REPOSITÓRIO LOCAL E REMOTO, TÊM ATÉ RELAÇÃO, MAS NÃO SÃO A MESMA COISA. EX.: SE TU APAGARES O BACKUP DO REPOSITÓRIO LOCAL, NÃO ESTARÁS APAGANDO O DO REPOSITÓRIO REMOTO (LÓGICO)!
+
+	# NO GITHUB, QUANDO ACESSAS UM REPOSITÓRIO > SETTINGS, tem uma área chamada "Danger Zone" ali ficam algumas configurações sérias como [tornar um repositório privado/público] e [Deletar o repositório].
+
+	# PROGRAMMER VOCABULARIES:
+	- COMMITAR: CRIAR VERSÕES DO SEU CÓDIGO
+	- PUSH: SUBIR NO SERVIDOR
+
+	# JÁ SEI O BÁSICO DE GERENCIAR REPOSITÓRIOS.
+
+	# PRÓXIMA AULA: VAMOS HABILITAR O RECURSO DE HOSPEDAGEM DE SITES NO GITHUB.
+
+	# GITHUB PAGES: HOSPEDAR SEUS SITES DE FORMA GRATUITA.
 -----------------------------------------------------------------------------------
