@@ -47,4 +47,59 @@
 	# PRÓXIMA AULA: VAMOS HABILITAR O RECURSO DE HOSPEDAGEM DE SITES NO GITHUB.
 
 	# GITHUB PAGES: HOSPEDAR SEUS SITES DE FORMA GRATUITA.
+
+	# SITE PARA GERAR QR CODE: https://www.qr-code-generator.com/
+
+	# IMPORTANT NOTE: O GITHUB CODE SÓ POSSIBILITA HOSPEDAR SITES COM HTML, CSS E JAVASCRIPT!
 -----------------------------------------------------------------------------------
+
+
+--------------------------------PRODUTIVIDADE NO PC--------------------------------
+	# VOU INSTALAR: UBUNTU LTS (por exemplo Ubuntu 24.04 LTS)
+
+	Depois, quando já estiver confiante, vou migrar para algo mais “hardcore” 
+tipo Arch Linux ou Fedora.
+------------------------------------------------------------------------------------
+
+
+
+-----------------FROM YOUTUBE: Learn CSS Flexbox - Full Tutorial with Project-------------------
+
+	# FLEXBOX: USADO PARA ALINHAR ELEMENTOS EM LINHAS OU COLUNAS
+	- USA DISPLAY: FLEX;
+
+
+
+	# ALINHAR UM ELEMENTO:
+	- HORIZONTALMENTE (MAIN-AXIS): justify-content: [flex-start], [center] e [flex-end].
+	- VERTICALMENTE (CROSS-AXIS): align-items:[flex-start], [center] e [flex-end].
+	
+	# EXEMPLO CENTRALIZAR ELEMENTO FLEX:
+	display: flex;
+    	justify-content: center;
+    	align-items: center;
+
+	# PROPRIEDADES ADICIONAIS:
+	- justify-content: space-between; /*Dá espaço entre eles, toca na borda (edge) do layout.*/
+	- justify-content: space-around; /*Dá espaço entre eles e não toca na borda (edge) do layout.*/
+
+	# PROPRIEDADE ADICIONAL COM ESPAÇOS IGUAIS:
+	- justify-content: space-evenly;
+
+	# FLEX-DIRECTION
+	- Tal como o nome diz ele alinha a direção do conteúdo. Exemplo:
+	Com isso, parece tudo mesmíssima coisa, que o padrão:
+	flex-direction: row;
+	justify-content: flex-start;
+
+	- Já com isso, há uma pequena diferença: 
+	flex-direction: row-reverse; /*Essa propriedade inverte tudo, o justify-content e a ordem de organização do conteúdo.*/
+	justify-content: flex-start;
+
+	- Flex em coluna: flex-direction: column;
+
+	- Centralizar no centro, em coluna: 
+	flex-direction: column; /*Organizar em coluna*/ 
+    	justify-content: flex-start; /*Alinhar horizontalmente*/
+    	align-items: center; /*Alinhar verticalmente*/
+------------------------------------------------------------------------------------------------
