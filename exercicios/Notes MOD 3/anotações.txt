@@ -53,6 +53,12 @@
 	# SITE PARA GERAR QR CODE: https://www.qr-code-generator.com/
 
 	# IMPORTANT NOTE: O GITHUB CODE SÓ POSSIBILITA HOSPEDAR SITES COM HTML, CSS E JAVASCRIPT!
+
+	# SÓ POR AUTÊNTICA DIVERSÃO, APRENDA: COLOCAR TODOS OS SEUS PROJECTOS NA BRANCH NÃO É UMA BOA PRÁTICA! PORQUÊ?
+	R: Porquê num projecto existem diferentes versões e funcionalidades, misturar todos os códigos em uma única branch é pura desorganização. Apresenta desvantagens como: 
+	- Dificulta o trabalho em equipe, porque está tudo em uma única branch e fica difícil trabalhar e gerenciar códigos em equipe.
+	- Dificulta a criação de versões, como já expliquei sobre a organização.
+	- E assim vai, é só pensar, seu super duro!
 -----------------------------------------------------------------------------------
 
 
