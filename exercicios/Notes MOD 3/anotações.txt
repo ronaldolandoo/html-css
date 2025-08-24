@@ -102,4 +102,7 @@ tipo Arch Linux ou Fedora.
 	flex-direction: column; /*Organizar em coluna*/ 
     	justify-content: flex-start; /*Alinhar horizontalmente*/
     	align-items: center; /*Alinhar verticalmente*/
+
+
+	# COMBINAÇÃO PARA DIMINUIR 1 TAB: SHIFT + TAB
 ------------------------------------------------------------------------------------------------
