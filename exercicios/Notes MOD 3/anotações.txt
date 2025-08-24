@@ -59,6 +59,8 @@
 	- Dificulta o trabalho em equipe, porque está tudo em uma única branch e fica difícil trabalhar e gerenciar códigos em equipe.
 	- Dificulta a criação de versões, como já expliquei sobre a organização.
 	- E assim vai, é só pensar, seu super duro!
+
+	# GIT DESKTOP, PARA ABRIR O EXPLORADOR, CTRL + SHIFT + S: SHOW IN EXPLORER
 -----------------------------------------------------------------------------------
 
 
