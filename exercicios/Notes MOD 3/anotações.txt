@@ -60,7 +60,11 @@
 	- Dificulta a criação de versões, como já expliquei sobre a organização.
 	- E assim vai, é só pensar, seu super duro!
 
-	# GIT DESKTOP, PARA ABRIR O EXPLORADOR, CTRL + SHIFT + S: SHOW IN EXPLORER
+	# GIT DESKTOP, PARA ABRIR O EXPLORADOR, CTRL + SHIFT + F: SHOW IN EXPLORER
+
+	# QUANDO COLOCAS "MARGIN" NO LUGAR DE "PADDING" DÁ PÂNICO, NÃO FICA TEIMOSO!
+
+	# AO DAR O NOME NA ACTUALIZAÇÃO NO GIT, DÊ NOMES ESPECÍFICOS.
 -----------------------------------------------------------------------------------
 
 
@@ -132,6 +136,21 @@ tipo Arch Linux ou Fedora.
 
 
 	# COMBINAÇÃO PARA DIMINUIR 1 TAB: SHIFT + TAB
+
+	# AUTODEPRECIAÇÃO é a crítica negativa constante de si, podendo estar associado a autoestima baixa.
+
+	# LINDO E ADQUADO PARA CALCULAR O TAMANHO DA TELA:
+	height: calc(100vh - 6rem); /*! EM OUTRAS PALAVRAS A TELA É DE 100vh diminuindo os 6rem do cabeçalho o .banner ocupará toda a tela.*/
+
+	# BOAS HASTAGS: #science #ai #tech
 ------------------------------------------------------------------------------------------------
+
+
+--------------------------Overflow, min-height e max-height-------------------------------------
+	# HEIGHT: AUTO; /*Algum elemento como parágrafo a altura é adicionada automáticamente.*/
+
+------------------------------------------------------------------------------------------------
+
+
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
