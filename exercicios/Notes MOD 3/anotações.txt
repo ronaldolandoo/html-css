@@ -70,6 +70,13 @@
 
 
 -------------------MANUTENÇÃO EM SITES HOSPEDADOS NO GITHUB PAGES------------------
+	Para fazer a manutenção de um site hospedado no GITHUB PAGES:
+	1. Salvar a alteração localmente, no Git Desktop.
+	2. Lançar a actualização no GITHUB e pronto!
+-----------------------------------------------------------------------------------
+
+
+---------------------------RECURSOS SOCIAIS DO GITHUB------------------------------
 
 -----------------------------------------------------------------------------------
 
@@ -151,6 +158,8 @@ tipo Arch Linux ou Fedora.
 
 ------------------------------------------------------------------------------------------------
 
+	#Dream Boyz - Vou te assumir feat Landrick (Offical Video)
 
+	# Parei na Aula 9 - Recursos Sociais do GitHub - @Curso em Vídeo HTML5 e CSS3 - 5:26
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
