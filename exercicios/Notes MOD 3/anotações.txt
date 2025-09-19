@@ -76,9 +76,18 @@
 -----------------------------------------------------------------------------------
 
 
----------------------------RECURSOS SOCIAIS DO GITHUB------------------------------
+--------------------------- CONFIGURANDO A POSIÇÃO DA IMAGEM NO FUNDO DO SITE ------------------------------
 
------------------------------------------------------------------------------------
+	#BACKGROUND-POSITION: right center; /*É possível configurar a área da imagem que será apresentada no ecrã, usando este modelo: 2 positions.*/
+
+	#POSICIONAMENTO PADRÃO: BACKGROUND-POSITION: LEFT TOP;
+
+	#É MUITO ÚTIL PARA POSICONAR O BACKGROUND (FUNDO).
+
+	Comentário: Agora sim! Estou amando e gostando 😂.
+
+	#HOMEWORK: ADICIONE QUALQUER FUNDO NA SUA PÁGINA.
+------------------------------------------------------------------------------------------------------------
 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
