@@ -167,6 +167,21 @@ tipo Arch Linux ou Fedora.
 
 ------------------------------------------------------------------------------------------------
 
+
+------------------------------------PROGRAMMER NOTES--------------------------------------------
+
+	#FEATURES - É um recurso novo adicionado o seu software.
+
+	#Manutenção - melhoramento no software.
+
+	#Escalabilidade - crescimento do software.
+
+
+
+------------------------------------------------------------------------------------------------
+
+
+
 	#Dream Boyz - Vou te assumir feat Landrick (Offical Video)
 
 	# Parei na Aula 9 - Recursos Sociais do GitHub - @Curso em Vídeo HTML5 e CSS3 - 5:26
