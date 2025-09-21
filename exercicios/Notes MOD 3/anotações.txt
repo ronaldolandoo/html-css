@@ -90,6 +90,30 @@
 ------------------------------------------------------------------------------------------------------------
 
 
+-------------------------------------PROPRIEDADES BACKGROUND------------------------------------
+	
+	#BACKGROUND-SIZE: CONTAIN; /* FAZ A IMAGEM SER 100% EXIBIDA */
+	
+	#BACKGROUND-SIZE: COVER; /* COBRE O ECRÃ TODO COM A IMAGEM, MESMO QUE TENHA QUE ADPTAR */
+	
+	#Attachment = vínculo
+
+	#Background-attachment: scroll; /* O fundo vai rolar com o conteúdo - automático */
+	#Background-attachment: fixed; /* Muito Legal! O fundo fica mesmo fixo e o conteúdo move-se. */
+
+	APRENDA DE UMA VEZ CARALHO!
+	# MAX-WIDTH /* ele deixa elemento com uma determinada altura e se você encolher a tela, ele vai simplesmente acompanhar-se. */
+
+
+	#Shorthand - background
+        	   - color > image > position > repeat > [size] > attachment 
+
+	#Homework: Dá uma olhada e aprenda mais com a W3C (World Wide Web Consortium) ela criou padrões técnicos para HTML e CSS. 
+------------------------------------------------------------------------------------------------
+
+
+
+
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
@@ -167,14 +191,6 @@ tipo Arch Linux ou Fedora.
 
 ------------------------------------------------------------------------------------------------
 
--------------------------------------PROPRIEDADES BACKGROUND------------------------------------
-	
-	#BACKGROUND-SIZE: CONTAIN; /* FAZ A IMAGEM SER 100% EXIBIDA */
-	
-	
-------------------------------------------------------------------------------------------------
-
-
 
 
 ------------------------------------PROGRAMMER NOTES--------------------------------------------
@@ -185,7 +201,7 @@ tipo Arch Linux ou Fedora.
 
 	#Escalabilidade - crescimento do software.
 
-
+	#attachment = fixação
 
 ------------------------------------------------------------------------------------------------
 
