@@ -115,6 +115,9 @@
 
 ----------------------------------ALINHAMENTO VERTICAL-----------------------------------------
 	#DICA: É MUITO NORMAL ASSISTIR UMA VÍDEO-AULA QUE CLAREA O SEU CONHECIMENTO SOBRE ALGUMA COISAO OU ENSINA-TE E APLICARES LOGO NO SEU PROJECTO.
+	
+
+	#background-size: 100% 100%; /* Ajuda a centralizar uma imagem dentro de um elemento */
 -----------------------------------------------------------------------------------------------
 
 
