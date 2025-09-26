@@ -90,7 +90,7 @@
 ------------------------------------------------------------------------------------------------------------
 
 
--------------------------------------PROPRIEDADES BACKGROUND------------------------------------
+-------------------------------------PROPRIEDADES BACKGROUND------------------------------------------------
 	
 	#BACKGROUND-SIZE: CONTAIN; /* FAZ A IMAGEM SER 100% EXIBIDA */
 	
@@ -198,6 +198,8 @@ tipo Arch Linux ou Fedora.
 --------------------------Overflow, min-height e max-height-------------------------------------
 	# HEIGHT: AUTO; /*Algum elemento como parágrafo a altura é adicionada automáticamente.*/
 
+	
+
 ------------------------------------------------------------------------------------------------
 
 
@@ -211,6 +213,8 @@ tipo Arch Linux ou Fedora.
 	#Escalabilidade - crescimento do software.
 
 	#attachment = fixação
+
+	# font-variant: small-caps; /* Primeira letra de uma palavra é maiúscula e as outras minúsculas*/
 ------------------------------------------------------------------------------------------------
 
 
