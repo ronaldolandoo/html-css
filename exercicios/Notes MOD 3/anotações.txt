@@ -215,6 +215,18 @@ tipo Arch Linux ou Fedora.
 	#attachment = fixação
 
 	# font-variant: small-caps; /* Primeira letra de uma palavra é maiúscula e as outras minúsculas*/
+
+	# Texto responsivo, responsividade de texto ou conteúdo: 
+	font-size: 10vw; /* Ajuda a adaptar o texto a diferentes texto (largura) */
+	min-height: 10vh; /* Ajuda a adaptar o texto ou conteúdo (altura) */
+	
+	#vh = viewport height. /* Para altura */
+
+	#vw = viewport weight. /* Para largura */
+
+	#NOTE: QUANDO DIGITO "DISPLAY: INLINE-BLOCK;" SE TIVER UMA CAIXA ELE AUTOMÁTICAMENTE FAZ COM QUE A CAIXA ADPTA-SE A TELA.
+
+	
 ------------------------------------------------------------------------------------------------
 
 
