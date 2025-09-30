@@ -226,6 +226,8 @@ tipo Arch Linux ou Fedora.
 
 	#NOTE: QUANDO DIGITO "DISPLAY: INLINE-BLOCK;" SE TIVER UMA CAIXA ELE AUTOMÁTICAMENTE FAZ COM QUE A CAIXA ADPTA-SE AO SEU CONTEÚDO	
 
+
+	# SOMBRA INTERNA: box-shadow: inset 6px 6px 0px rgba(0, 0, 0, 0.514);
 	
 ------------------------------------------------------------------------------------------------
 
