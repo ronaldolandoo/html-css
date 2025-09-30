@@ -224,7 +224,7 @@ tipo Arch Linux ou Fedora.
 
 	#vw = viewport weight. /* Para largura */
 
-	#NOTE: QUANDO DIGITO "DISPLAY: INLINE-BLOCK;" SE TIVER UMA CAIXA ELE AUTOMÁTICAMENTE FAZ COM QUE A CAIXA ADPTA-SE A TELA.
+	#NOTE: QUANDO DIGITO "DISPLAY: INLINE-BLOCK;" SE TIVER UMA CAIXA ELE AUTOMÁTICAMENTE FAZ COM QUE A CAIXA ADPTA-SE AO SEU CONTEÚDO	
 
 	
 ------------------------------------------------------------------------------------------------
