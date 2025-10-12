@@ -228,6 +228,9 @@ tipo Arch Linux ou Fedora.
 
 
 	# SOMBRA INTERNA: box-shadow: inset 6px 6px 0px rgba(0, 0, 0, 0.514);
+
+	# NÃO USE TABELAS PARA CRIAR A ESTRUTURA DO SEU SITE
+	- TABELAS DEVEM SER USADAS PARA MOSTRAR DADOS
 	
 ------------------------------------------------------------------------------------------------
 
